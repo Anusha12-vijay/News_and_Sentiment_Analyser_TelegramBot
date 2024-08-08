@@ -14,7 +14,7 @@ myvenv/
 # Ignore IDE-specific files
 .vscode/
 .idea/
-
+twitter_sentiment_analysis/
 media.json
 
 # Ignore system files
