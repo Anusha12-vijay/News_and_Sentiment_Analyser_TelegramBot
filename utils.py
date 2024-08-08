@@ -14,7 +14,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./media.json"
-Project_Id = "mediaemobot-9iar"
+Project_Id = "your id"
 
 dialogflow_session_client = dialogflow.SessionsClient()
 client = gnewsclient.NewsClient()
