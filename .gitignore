@@ -7,7 +7,8 @@ __pycache__/
 # Ignore virtual environment directory
 myvenv/
 .env/
-
+# Token = "7313342895:AAE1HGAQigzgkPlOY_Vx_UhRdEsY8eGy6z0"
+# Webhook_URL = "https://73988946a8434c571a12cc91a6500a34.serveo.net"  # Your public URL
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 

@@ -8,8 +8,8 @@ from utils import get_reply, fetch_news
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-Token = "7313342895:AAE1HGAQigzgkPlOY_Vx_UhRdEsY8eGy6z0"
-Webhook_URL = "https://73988946a8434c571a12cc91a6500a34.serveo.net"  # Your public URL
+Token = "your token"
+Webhook_URL = "your url"  # Your public URL
 
 app = Flask(__name__)
 
